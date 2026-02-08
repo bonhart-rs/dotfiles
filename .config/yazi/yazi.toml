@@ -1,0 +1,5 @@
+[opener]
+play = [
+    { run = "mpv \"$@\"", desc = "Play video in MPV", for = "unix" }
+]
+
