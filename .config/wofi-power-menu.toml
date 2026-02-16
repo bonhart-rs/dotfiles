@@ -1,0 +1,18 @@
+
+[menu.shutdown]
+requires_confirmation = "false"
+
+[menu.reboot]
+requires_confirmation = "false"
+
+[menu.suspend]
+requires_confirmation = "false"
+
+[menu.hibernate]
+requires_confirmation = "false"
+
+[menu.logout]
+requires_confirmation = "false"
+
+[menu.lock-screen]
+requires_confirmation = "false"
